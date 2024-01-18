@@ -1,12 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Top-Films/assets/main/png/top-films-logo-white-transparent.png" width="400" alt="logo"/>
+  <br><br>
+</p>
 
-<!--
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=2F73BF)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to Top Films! We are dedicated to providing movie lists that users can talk about and review with our platform.
+
+## Features
+
+### 1. **Movie Lists**
+   - Explore carefully crafted lists of top films, categorized by genres and themes.
+
+### 2. **User Ratings and Reviews**
+   - Contribute to the community by creating your own lists and reviewing others.
+   - Read insightful reviews from fellow movie lovers to make informed decisions on what to watch next.
+
+## Contributing or Feedback
+
+We welcome contributions from the community! If you have suggestions for new features or improvements, feel free to contact us!
+
+Enjoy your cinematic journey with Top Films!
