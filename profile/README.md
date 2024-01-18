@@ -27,6 +27,6 @@ Welcome to Top Films! We are dedicated to providing movie lists that users can t
 
 ## Contributing or Feedback
 
-We welcome contributions from the community! If you have suggestions for new features or improvements, feel free to contact us!
+- We welcome contributions from the community! If you have suggestions for new features or improvements, feel free to contact us!
 
 Enjoy your cinematic journey with Top Films!
